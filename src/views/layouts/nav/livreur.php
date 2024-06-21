@@ -1,0 +1,1 @@
+<li class="nav-item"><a class="btn btn-danger" href="/user/logout">Déconnexion</a></li>
